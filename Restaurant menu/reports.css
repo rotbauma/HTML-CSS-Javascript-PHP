@@ -1,0 +1,23 @@
+table { 
+		border-collapse: 	collapse; 
+} 
+th {
+	background-color: 		#876019;
+	color: 					white;
+	padding: 				7px;
+}
+tr:nth-child(even) {background: 	white; }
+tr:nth-child(odd) {background: 		#dbcbad; }
+tr:hover { 
+	background-color: 		#d8bc88; 
+}
+td:hover { 
+	color: 					navyblue;
+	text-align:				center;
+}
+td, th {
+	font-size:				1.05vw;
+}
+td {
+	text-align:				center;
+}
